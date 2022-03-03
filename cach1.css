@@ -1,0 +1,45 @@
+.tong
+{
+    width: 2089px;
+    height: 700px;
+    border:1px solid black;
+}
+.tren
+{
+    width: 100%;
+    height: 200px;
+    border:1px solid black;
+}
+.duoi
+{
+    width: 2089px;
+    height: 490px;
+    border:1px solid black;
+}
+.trai
+{
+    width: 20%;
+    height: 100%;
+    border:1px solid black;
+    float: left;
+}
+.phai
+{
+    width: 80%px;
+    height: 100%px;
+    border:1px solid black;
+    float: right;
+}
+.trong1 {
+    width: 1500px;
+    height: 200px;
+    background-color:rgb(255, 255, 255);
+    float: left(30);
+    border:1px solid black;
+    }
+.trong2{
+    width: 1510px;
+    height: 200px;
+    background-color: rgb(253, 253, 253);
+    float: left(100);
+}    
